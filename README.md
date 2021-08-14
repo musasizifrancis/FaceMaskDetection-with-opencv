@@ -17,7 +17,7 @@ without_mask: 1930 imagesAll the dependencies and required libraries are include
 
 🚀  Installation
 Clone the repo
-$ git clone https://github.com/chandrikadeb7/Face-Mask-Detection.git
+$ git clone https://github.com/musasizifrancis/FaceMaskDetection-with-opencv.git
 Change your directory to the cloned repo
 $ cd Face-Mask-Detection
 Create a Python virtual environment named 'test' and activate it
